@@ -40,7 +40,9 @@ func GetBio() Bio {
 
 <h4 align="center">Top langs 🥓</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanSiego-0&langs_count=5&theme=tokyonight" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanSiego-0&theme=synthwave “Andres’ Top Languages Card”" frameborder="0"" alt="Dansiego :: Top Langs" /></p>
+
+
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
